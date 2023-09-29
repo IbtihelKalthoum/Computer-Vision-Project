@@ -1,4 +1,4 @@
-# 🎓 Smart-attendance-system-based-on-face-detection-and-recognition 🎓
+# 📸 Smart-attendance-system-based-on-face-detection-and-recognition 📸
 
 An end-to-end machine learning project tailored for implementing an intelligent attendance system leveraging state-of-the-art face detection and recognition techniques.
 
